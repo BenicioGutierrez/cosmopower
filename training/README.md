@@ -1,4 +1,4 @@
-Code for generating data and training CMB power spectra emulators.
+Code for generating data and training CMB power spectra emulators with general dark fluid (GDF).
 
 params_gen.py - generates Latin hypercube of parameters, and generates spectra output folder. 
 
