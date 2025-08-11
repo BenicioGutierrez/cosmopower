@@ -1,6 +1,6 @@
 Code for generating data and training CMB power spectra emulators.
 
-params_gen.py - generates latin hyptercube of parameters, and generates spectra output folder. 
+params_gen.py - generates Latin hypercube of parameters, and generates spectra output folder. 
 
 params_rescale.py - changes omega_gdm to log scale
 
